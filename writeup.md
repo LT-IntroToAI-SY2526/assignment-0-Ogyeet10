@@ -1,6 +1,7 @@
 # Assignment 0 Writeup
 
 **Name:** Aidan L
+
 **Date:** 08/19/25
 
 ---
